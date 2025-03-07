@@ -4,12 +4,11 @@
 <head>
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
-    <title>Document</title>
+    <title>Feature</title>
 </head>
 
 <body>
-    <span>Hello!</span>
-    <span>git Rebase!</span>
+
 </body>
 
 </html>
