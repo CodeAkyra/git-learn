@@ -10,6 +10,16 @@
 <body>
     <span>SPAN!</span>
     <span>ANOTHER SPAN!</span>
+
+    <div>
+        <div>
+            <div>
+                <div>
+                    <span>HI!</span>
+                </div>
+            </div>
+        </div>
+    </div>
 </body>
 
 </html>
