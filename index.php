@@ -9,11 +9,8 @@
 
 <body>
     <span>Hello!</span>
-    <<<<<<< HEAD
-        <span>git Rebase!</span>
-        =======
-        <span>HELLLLLLLLLLLLOOOOO!</span>
-        >>>>>>> ab66777 (batman)
+    <span>git Rebase!</span>
+    <span>HELLLLLLLLLLLLOOOOO!</span>
 </body>
 
 </html>
