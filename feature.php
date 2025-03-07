@@ -13,6 +13,7 @@
 
     <div>
         <div>
+<<<<<<< HEAD
             <div>
                 <div>
                     <span>HI!</span>
@@ -23,6 +24,9 @@
                     <span>HI!</span>
                 </div>
             </div>
+=======
+            <span>Hello!</span>
+>>>>>>> 63a9bd3 (batman)
         </div>
     </div>
 </body>
