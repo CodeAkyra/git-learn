@@ -13,6 +13,7 @@
 
     <div>
         <div>
+<<<<<<< HEAD
             <div>
                 <div>
                     <span>HI!</span>
@@ -23,6 +24,9 @@
                     <span>HI!</span>
                 </div>
             </div>
+=======
+            <span>Hello!</span>
+>>>>>>> f5a7692f0937f806b4d7c290fe3c260663bce2d3
         </div>
     </div>
 </body>
